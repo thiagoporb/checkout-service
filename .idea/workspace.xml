@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6872fa15-3e2a-49a5-94af-c4a493be9164" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1jF6CHWQArH22amjsXj2GuWBbj4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fake-payment-provider" />
+    <property name="settings.editor.selected.configurable" value="goland.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thiag\git\fake-payment-provider" />
+      <recent name="C:\Users\thiag\git\payment-service" />
+      <recent name="C:\Users\thiag\git\order-service\queue" />
+      <recent name="C:\Users\thiag\git\order-service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build order.go">
+    <configuration name="go build checkout.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="order-service" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/checkout.go" />
+      <package value="github.com/thiagoporb/checkout-service" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build fake.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="order-service" />
+      <working_directory value="$PROJECT_DIR$/../fake-payment-provider" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../fake-payment-provider/fake.go" />
+      <package value="github.com/thiagoporb/catalog-service" />
+      <directory value="$PROJECT_DIR$/../catalog-service" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build order.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="order-service" />
+      <working_directory value="$PROJECT_DIR$/../order-service" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../order-service/order.go" />
+      <package value="github.com/thiagoporb/checkout-service" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build payment.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="order-service" />
+      <working_directory value="$PROJECT_DIR$/../payment-service" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../payment-service/payment.go" />
+      <package value="github.com/thiagoporb/catalog-service" />
+      <directory value="$PROJECT_DIR$/../catalog-service" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build server.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="order-service" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/server.go" />
+      <package value="github.com/thiagoporb/checkout-service" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build order.go" />
+        <item itemvalue="Go Build.go build payment.go" />
+        <item itemvalue="Go Build.go build fake.go" />
+        <item itemvalue="Go Build.go build checkout.go" />
+        <item itemvalue="Go Build.go build server.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="475" y="197" key="#Go_Modules" timestamp="1603387463236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="197" key="#Go_Modules/0.0.1366.728@0.0.1366.728" timestamp="1603387463236" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603686535262">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603686535262" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1603765758669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603765758669" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1603765758669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603765758669" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1603765758669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603765758669" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1603765758669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603765758669" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1603765758669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603765758669" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1603765758669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1603765758669" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1603765758669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1603765758669" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1603765758669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1603765758669" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1603387415735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603387415735" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1603692618398">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1603692618398" />
+    <state x="0" y="0" width="585" height="728" key="find.popup" timestamp="1603406148734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1603406148734" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../fake-payment-provider/fake.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../order-service/order.go</url>
+          <line>43</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../payment-service/payment.go</url>
+          <line>97</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
